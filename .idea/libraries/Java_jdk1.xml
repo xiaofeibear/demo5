@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java-jdk1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Program Files/Java-jdk1.8" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files/tomcat7.0/apache-tomcat-7.0.100-windows-x64.zip!/apache-tomcat-7.0.100/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
